@@ -28,7 +28,6 @@
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px;">
     :: ARSENAL TÉCNICO ::
   </p>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,lua,js,ts,py,react,nextjs,nodejs,linux,git,mysql&perline=15&theme=dark" style="filter: grayscale(100%) brightness(0.9) contrast(1.1);" height="35" alt="Icons"/>
   </a>
@@ -40,7 +39,6 @@
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 10px;">
     :: DINÂMICA DE GRUPO ::
   </p>
-  
   <p style="font-family: 'Gill Sans', sans-serif; color: #a0a0a0; font-size: 13px; letter-spacing: 1px;">
     MENTALIDADE COLABORATIVA &nbsp;|&nbsp; COMUNICAÇÃO TÉCNICA CLARA &nbsp;|&nbsp; CODE REVIEW ATIVO
   </p>
@@ -52,7 +50,6 @@
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 15px;">
     :: OFF_TOPIC (TEMPO LIVRE) ::
   </p>
-  
   <div style="font-family: 'Gill Sans', sans-serif; color: #999; font-size: 13px; line-height: 2;">
     <span>› Estudo de História e Filosofia</span><br>
     <span>› Jogos de Estratégia e Lógica</span><br>
@@ -61,9 +58,11 @@
   </div>
 </div>
 
-<br/><br/>
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=60&section=footer&fontSize=0" width="100%" style="opacity: 0.5;">
+
+<div align="center" style="background-color: #0d1117; padding-bottom: 20px;">
   <a href="https://linkedin.com/in/MarceloSchuermann">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="35" alt="LinkedIn" style="opacity: 0.8;"/>
   </a>

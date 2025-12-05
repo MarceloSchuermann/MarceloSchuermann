@@ -11,8 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/45/61/35/45613523020772561676327022245763.jpg" width="60" style="border-radius: 50%; opacity: 0.7; filter: grayscale(100%); margin-bottom: 15px;">
-  
   <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
     Desenvolvedor focado na construção de estruturas lógicas sólidas. Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
   </p>
@@ -39,8 +37,6 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c2/69/4c/c2694c60283611181662070570006717.gif" width="50" style="border-radius: 50%; opacity: 0.6; filter: grayscale(100%); margin-bottom: 10px;">
-
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 10px;">
     :: DINÂMICA DE GRUPO ::
   </p>
@@ -67,6 +63,10 @@
 
 <br/><br/>
 
-<div align="center">
-  <p style="font-size: 10px; color: #444; letter-spacing: 2px;">© 2024 MARCELO SCHUERMANN</p>
+<div align="center" style="font-family: 'Gill Sans', sans-serif; font-size: 11px; color: #555;">
+  <a href="https://linkedin.com/in/MarceloSchuermann" style="text-decoration: none; color: #888;">LINKEDIN</a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="mailto:marceloschuermann1@gmail.com" style="text-decoration: none; color: #888;">EMAIL</a>
+  <br/><br/>
+  <span style="opacity: 0.5;">© 2024 MARCELO SCHUERMANN</span>
 </div>

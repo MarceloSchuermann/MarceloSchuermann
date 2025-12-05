@@ -24,7 +24,7 @@
   <br/>
   
   <p style="font-family: 'Cinzel', serif; color: #666; font-size: 12px; letter-spacing: 2px;">
-    <i>"A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."</i>
+    <i>"A simplicidade é o último grau da sofisticação."</i>
   </p>
 </div>
 

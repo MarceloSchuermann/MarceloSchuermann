@@ -94,8 +94,4 @@
   <a href="https://linkedin.com/in/MarceloSchuermann">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="35" alt="LinkedIn" style="opacity: 0.8;"/>
   </a>
-  <br/><br/>
-  <p style="font-family: 'Gill Sans', sans-serif; font-size: 10px; color: #555; letter-spacing: 1px;">
-    © 2024 MARCELO SCHUERMANN
-  </p>
 </div>

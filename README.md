@@ -18,7 +18,7 @@
 
 <div align="center">
   <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
-    Desenvolvedor júnior focado em trazer a melhor experiência possível para o usuário.
+    Desenvolvedor júnior focado em trazer a melhor experiência possível para o usuário final.
   </p>
   
   <br/>
@@ -38,7 +38,7 @@
 
 <div align="center">
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px;">
-    :: ARSENAL TÉCNICO ::
+    Minhas "Hard Skills" são c++ e .lua, mas eu aprendo de tudo se for preciso, aqui estão algumas linguagens que estou familiarizado:
   </p>
   
   <a href="https://skillicons.dev">

@@ -86,6 +86,106 @@
   </div>
 </div>
 
+<br/><br/><br/>
+
+<div align="center">
+  <p style="font-family: 'Cinzel', serif; color: #444; font-size: 10px; letter-spacing: 4px;">
+    English Version Below 
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=2&width=100%" style="opacity: 0.3;">
+  <p style="color: #444;">▼</p>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/8a/41/1d/8a411d76aeeac1e0d3002f124456e41d.jpg" width="100%" height="280" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%) contrast(1.1); border-radius: 3px;" alt="Header Art"/>
+  
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=30&duration=4000&pause=1000&color=A8E6CF&background=00000000&center=true&vCenter=true&width=600&lines=MARCELO+SCHUERMANN;Logic+%26+Architecture;C%2B%2B+%7C+Lua+%7C+Full+Stack" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
+    Developer focused on merging logical performance with the best possible user experience.
+  </p>
+  
+  <br/>
+  
+  <p style="font-family: 'Cinzel', serif; color: #666; font-size: 12px; letter-spacing: 2px;">
+    <i>"SIMPLICITY IS THE ULTIMATE SOPHISTICATION."</i>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px;">
+    Specialized in <b>C++</b> and <b>Lua</b>, combined with the adaptability to master any required stack.
+    <br>Current technical arsenal:
+  </p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,lua,js,ts,py,react,nextjs,nodejs,linux,git,mysql&perline=15&theme=dark" style="filter: grayscale(100%) brightness(0.9) contrast(1.1);" height="35" alt="Icons"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 10px;">
+    :: GROUP DYNAMICS ::
+  </p>
+  
+  <p style="font-family: 'Gill Sans', sans-serif; color: #a0a0a0; font-size: 13px; letter-spacing: 1px; max-width: 600px;">
+    While many developers struggle with teamwork, that is not my case. I believe code is a form of communication: it must be clear to the reader and robust for the user. I value constant feedback exchange and view the team's success as the true objective.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 15px;">
+    :: OFF_TOPIC (FREE TIME) ::
+  </p>
+  
+  <div style="font-family: 'Gill Sans', sans-serif; color: #999; font-size: 13px; line-height: 2;">
+    <span>› History and Philosophy Studies</span><br>
+    <span>› Strategy and Logic Games</span><br>
+    <span>› Classical Architecture Appreciation</span><br>
+    <span>› Open Source Projects</span>
+  </div>
+</div>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=60&section=footer&fontSize=0" width="100%" style="opacity: 0.5;">

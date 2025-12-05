@@ -10,7 +10,9 @@
 
 <div align="center">
   <p width="600">
-    Sou um desenvolvedor focado em <b>lógica sólida e performance</b>. Minha base em linguagens de baixo nível e scripting (C++/Lua) me permite compreender profundamente o funcionamento do software, facilitando o aprendizado rápido de qualquer framework web moderno.
+    Olá, sou um desenvolvedor júnior focado em resolver o problema dos clientes/operação. 
+    <br><br>
+    Tenho uma base lógica forte em <b>C++ e Lua</b>, mas minha principal ferramenta é a adaptabilidade: <b>aprendo o que for preciso</b> para entregar valor. Acredito que o desenvolvimento de software é um esporte coletivo, por isso valorizo a troca de conhecimentos e estou sempre disposto a ajudar o time a crescer junto e entregar o que for preciso.
   </p>
 </div>
 

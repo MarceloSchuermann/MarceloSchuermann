@@ -1,42 +1,47 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=38&duration=3000&pause=1000&color=47FF5A&background=00000000&center=true&vCenter=true&width=600&height=100&lines=$+system.init_profile();Junior+Full+Stack+Developer;Core+Skills:+C%2B%2B+%26+Lua;Adapting+to+any+stack..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=004400&height=2&section=footer" width="100%" />
+</div>
+
 <br/>
 
 <div align="center">
-  <p>
-    Sou um desenvolvedor focado em <b>lógica sólida e performance</b>. Minha facilidade com linguagens como C++ e Lua me permite compreender profundamente como o software funciona "por baixo do capô", facilitando o aprendizado de qualquer framework web moderno.
+  <p width="600">
+    Sou um desenvolvedor focado em <b>lógica sólida e performance</b>. Minha base em linguagens de baixo nível e scripting (C++/Lua) me permite compreender profundamente o funcionamento do software, facilitando o aprendizado rápido de qualquer framework web moderno.
   </p>
 </div>
 
 <br/>
 
-### ⚡ Hard Skills (Onde eu me garanto)
-
+<h3 align="center">⚡ Hard Skills</h3>
 <div align="center">
   <br>
-  <img align="center" alt="C++" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 20px;" />
-  <img align="center" alt="Lua" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-left: 20px;" />
+  <img align="center" alt="C++" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 25px;" />
+  <img align="center" alt="Lua" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-left: 25px;" />
   <br><br>
 </div>
 
-### 🛠️  Caixa de Ferramentas (O que estou aprendendo/usando)
-
+<h3 align="left">🛠️ Arsenal Tecnológico</h3>
 <div align="left">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="NextJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 <br/>
 
 ---
-
-### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/SEU_USUARIO">
@@ -49,6 +54,9 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-004400?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect-004400?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

@@ -18,7 +18,7 @@
 
 <br/>
 
-<h3 align="center">⚡ Hard Skills</h3>
+<h3 align="center"> Hard Skills</h3>
 <div align="center">
   <br>
   <img align="center" alt="C++" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 25px;" />
@@ -26,7 +26,7 @@
   <br><br>
 </div>
 
-<h3 align="left">🛠️ Arsenal Tecnológico</h3>
+<h3 align="left"> Outras Stacks</h3>
 <div align="left">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/MarceloSchuermann">
     <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=47FF5A&icon_color=47FF5A" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&title_color=47FF5A" height="150" />
   </a>
@@ -55,10 +55,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/MarceloSchuermann">
     <img src="https://img.shields.io/badge/Connect-004400?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:marceloschuermann1@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

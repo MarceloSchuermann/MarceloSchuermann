@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW44aTBybnF5eWZ0eGU2aHhocnF1bXY5eG12aWRwejV4eWk5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LggC3C6WjDGbV7x87n/giphy.gif" width="400" height="auto" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/l3V0C5203rYg7t4x6/giphy.gif" width="350" height="auto" alt="Coding Pastel Animation" style="margin-bottom: 20px;"/>
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=5BC0BE&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Construindo+logica+solida...;Especialista+em+C%2B%2B+e+Lua;Aprendizado+continuo+e+colaboracao." alt="Typing SVG" />

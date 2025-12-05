@@ -11,6 +11,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
+
+<div align="center">
   <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
     Desenvolvedor focado na construção de estruturas lógicas sólidas. Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
   </p>
@@ -22,34 +28,55 @@
   </p>
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
 
 <div align="center">
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px;">
     :: ARSENAL TÉCNICO ::
   </p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,lua,js,ts,py,react,nextjs,nodejs,linux,git,mysql&perline=15&theme=dark" style="filter: grayscale(100%) brightness(0.9) contrast(1.1);" height="35" alt="Icons"/>
   </a>
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
 
 <div align="center">
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 10px;">
     :: DINÂMICA DE GRUPO ::
   </p>
+  
   <p style="font-family: 'Gill Sans', sans-serif; color: #a0a0a0; font-size: 13px; letter-spacing: 1px;">
     MENTALIDADE COLABORATIVA &nbsp;|&nbsp; COMUNICAÇÃO TÉCNICA CLARA &nbsp;|&nbsp; CODE REVIEW ATIVO
   </p>
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A8E6CF&height=1&width=50%" style="opacity: 0.4;">
+</div>
+
+<br/>
 
 <div align="center">
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 15px;">
     :: OFF_TOPIC (TEMPO LIVRE) ::
   </p>
+  
   <div style="font-family: 'Gill Sans', sans-serif; color: #999; font-size: 13px; line-height: 2;">
     <span>› Estudo de História e Filosofia</span><br>
     <span>› Jogos de Estratégia e Lógica</span><br>
@@ -67,4 +94,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="35" alt="LinkedIn" style="opacity: 0.8;"/>
   </a>
   <br/><br/>
+  <p style="font-family: 'Gill Sans', sans-serif; font-size: 10px; color: #555; letter-spacing: 1px;">
+    © 2024 MARCELO SCHUERMANN
+  </p>
 </div>

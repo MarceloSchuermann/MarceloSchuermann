@@ -38,12 +38,14 @@
 
 ---
 
----
-
 <div align="center">
-  <a href="https://github.com/TROQUE_PELO_SEU_USUARIO_EXATO">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TROQUE_PELO_SEU_USUARIO_EXATO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=47FF5A&icon_color=47FF5A"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TROQUE_PELO_SEU_USUARIO_EXATO&layout=compact&theme=radical&hide_border=true&title_color=47FF5A"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MarceloSchuermann&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  <br/><br/>
+  
+  <a href="https://github.com/MarceloSchuermann">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSchuermann&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=47FF5A&currStreakNum=47FF5A" />
   </a>
 </div>
 

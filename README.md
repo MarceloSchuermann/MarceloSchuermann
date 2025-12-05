@@ -18,7 +18,7 @@
 
 <div align="center">
   <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
-    Desenvolvedor focado na construção de estruturas lógicas sólidas. Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
+    Desenvolvedor júnior focado em trazer a melhor experiência possível para o usuário.
   </p>
   
   <br/>

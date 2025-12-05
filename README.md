@@ -17,8 +17,8 @@
   
   <br/>
   
-  <p style="font-family: 'Cinzel', serif; color: #666; font-size: 11px; letter-spacing: 3px;">
-    "A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."
+  <p style="font-family: 'Cinzel', serif; color: #666; font-size: 12px; letter-spacing: 2px;">
+    <i>"A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."</i>
   </p>
 </div>
 
@@ -63,10 +63,12 @@
 
 <br/><br/>
 
-<div align="center" style="font-family: 'Gill Sans', sans-serif; font-size: 11px; color: #555;">
-  <a href="https://linkedin.com/in/MarceloSchuermann" style="text-decoration: none; color: #888;">LINKEDIN</a>
-  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="mailto:marceloschuermann1@gmail.com" style="text-decoration: none; color: #888;">EMAIL</a>
+<div align="center">
+  <a href="https://linkedin.com/in/MarceloSchuermann">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="35" alt="LinkedIn" style="opacity: 0.8;"/>
+  </a>
   <br/><br/>
-  <span style="opacity: 0.5;">© 2024 MARCELO SCHUERMANN</span>
+  <p style="font-family: 'Gill Sans', sans-serif; font-size: 10px; color: #555; letter-spacing: 1px;">
+    © 2024 MARCELO SCHUERMANN
+  </p>
 </div>

@@ -1,69 +1,52 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2r30sQkC6n05V3fLp/giphy.gif" width="100%" height="280" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%) contrast(1.1);" alt="Roman Aesthetic"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2r30sQkC6n05V3fLp/giphy.gif" width="100%" height="300" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%) contrast(1.1);" alt="Roman/Classical Architecture"/>
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=34&duration=4000&pause=1000&color=E0E0E0&background=00000000&center=true&vCenter=true&width=650&lines=MARCELO+SCHUERMANN;ARCHITECTING+ROBUST+SYSTEMS;C%2B%2B+%7C+LUA+%7C+FULL+STACK" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=36&duration=4000&pause=1000&color=E0E0E0&background=00000000&center=true&vCenter=true&width=700&lines=MARCELO+SCHUERMANN;C%2B%2B+%7C+LUA+%7C+FULL+STACK;ARQUITETURA+DE+SOFTWARE+S%C3%93LIDA" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <p style="color: #444444;">_______________________________________________________________</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.3; filter: grayscale(100%);">
 </div>
 
 <br/>
 
 <div align="center">
-  <p width="700" style="font-family: 'Courier New', monospace; color: #CCCCCC; letter-spacing: 0.5px;">
+  <p width="700" style="font-family: 'Georgia', serif; color: #CCCCCC; letter-spacing: 0.5px; font-size: 16px; line-height: 1.6;">
     Desenvolvedor focado na construção de estruturas lógicas sólidas e de alto desempenho. Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
   </p>
   <br/>
-  <p style="font-family: 'Courier New', monospace; color: #888888; font-size: 12px;">
+  <p style="font-family: 'Georgia', serif; color: #999999; font-size: 14px; border-top: 1px solid #333; display: inline-block; padding-top: 15px;">
     <i>"A simplicidade é o último grau da sofisticação."</i>
   </p>
 </div>
 
-<br/>
+<br/><br/>
 
-<h3 align="left" style="color: #DEDEDE; font-family: 'Courier New', monospace; border-bottom: 1px solid #333; padding-bottom: 10px;">> SOURCE_CODE_IDENTITY.cpp</h3>
+<h3 align="left" style="color: #DEDEDE; font-family: 'Cinzel', serif; border-bottom: 2px solid #444; padding-bottom: 10px; letter-spacing: 2px;">HARD SKILLS_</h3>
+<div align="left">
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,lua,js,ts,py,react,nextjs,nodejs,linux,git,mysql&perline=12&theme=dark" style="filter: grayscale(1) contrast(1.2) brightness(0.9);" alt="Hard Skills Icons"/>
+  </a>
+</div>
 
-```cpp
-#include <iostream>
-#include <vector>
+<br/><br/>
 
-class MarceloSchuermann {
-private:
-    std::string Philosophy = "Code is Art & Logic combined.";
+<h3 align="left" style="color: #DEDEDE; font-family: 'Cinzel', serif; border-bottom: 2px solid #444; padding-bottom: 10px; letter-spacing: 2px;">SOFT SKILLS & FOUNDATION_</h3>
+<div align="left">
+  <br>
+  <img src="https://img.shields.io/badge/LÓGICA-SÓLIDA-1c1c1c?style=for-the-badge&labelColor=333333" alt="Lógica Sólida"/>
+  <img src="https://img.shields.io/badge/ALTO-DESEMPENHO-1c1c1c?style=for-the-badge&labelColor=333333" alt="Alto Desempenho"/>
+  <img src="https://img.shields.io/badge/ADAPTABILIDADE-1c1c1c?style=for-the-badge&labelColor=333333" alt="Adaptabilidade"/>
+  <img src="https://img.shields.io/badge/ARQUITETURA-PROFUNDA-1c1c1c?style=for-the-badge&labelColor=333333" alt="Arquitetura Profunda"/>
+</div>
 
-public:
-    // A fundação sólida (Hard Skills)
-    void CoreArchitecture() {
-        std::string LowLevel = "C++ (STL, Memory Management)";
-        std::string Scripting = "Lua (Embedded, Efficiency)";
-        std::string Concepts = "Algorithms & Data Structures";
-    }
+<br/><br/>
 
-    // O Arsenal Moderno (Adaptabilidade)
-    std::vector<std::string> FullStackToolkit = {
-        "JavaScript / TypeScript",
-        "React / NextJS ecosystem",
-        "NodeJS Backend",
-        "SQL (MySQL) & Database Design",
-        "Git Version Control",
-        "Linux Environment"
-    };
-};
-<h3 align="left" style="color: #DEDEDE; font-family: 'Courier New', monospace; border-bottom: 1px solid #333; padding-bottom: 10px;">> TECH_STACK_VISUALIZATION</h3> <div align="left"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,lua,js,ts,py,react,nextjs,nodejs,linux,git,mysql%26perline%3D11%26theme%3Ddark" style="filter: grayscale(0.4) contrast(0.9) brightness(0.9);" /> </a> </div>
-
-
-
-<div align="center"> <p style="color: #444444;">_______________________________________________________________</p>
-
-
-<a href="https://github.com/MarceloSchuermann"> <img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMarceloSchuermann%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue%26title_color%3Dffffff%26icon_color%3De1e1e1%26text_color%3Dbfbfbf%26bg_color%3D0d1117"/> <img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMarceloSchuermann%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3Dffffff%26icon_color%3De1e1e1%26text_color%3Dbfbfbf%26bg_color%3D0d1117%26hide%3Djupyter%2520notebook"/> </a> </div>
-
-<div align="center" style="font-family: 'Courier New', monospace; color: #888888;"> <p> <a href="https://linkedin.com/in/MarceloSchuermann" style="text-decoration: none; color: #DEDEDE; border: 1px solid #555; padding: 5px 10px;">LINKEDIN</a> &nbsp;&nbsp;&nbsp; <a href="mailto:marceloschuermann1@gmail.com" style="text-decoration: none; color: #DEDEDE; border: 1px solid #555; padding: 5px 10px;">EMAIL CONTACT</a> </p>
-
-
-<p style="font-size: 11px; letter-spacing: 1px;">© 2024 MARCELO SCHUERMANN • EST. MMXIV</p> </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.3; filter: grayscale(100%);">
+</div>

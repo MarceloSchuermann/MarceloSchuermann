@@ -1,29 +1,40 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZnR6MmZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2r30sQkC6n05V3fLp/giphy.gif" width="100%" height="280" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%) contrast(1.1);" alt="Roman Aesthetic"/>
+  <img src="https://i.pinimg.com/originals/d1/19/7e/d1197e58dd9b8740316f576061396d00.gif" width="100%" height="350" style="object-fit: cover; opacity: 0.9; filter: grayscale(100%) contrast(1.2) brightness(0.8);" alt="Dark Roman Architecture"/>
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=34&duration=4000&pause=1000&color=E0E0E0&background=00000000&center=true&vCenter=true&width=650&lines=MARCELO+SCHUERMANN;C%2B%2B+%7C+LUA+%7C+FULL+STACK;ESTRUTURAS+L%C3%93GICAS+S%C3%93LIDAS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=36&duration=4000&pause=1000&color=E0E0E0&background=00000000&center=true&vCenter=true&width=700&lines=MARCELO+SCHUERMANN;C%2B%2B+%7C+LUA+%7C+FULL+STACK;ARQUITETURA+DE+SOFTWARE+S%C3%93LIDA" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.2; filter: grayscale(100%);">
+  <p style="color: #333; letter-spacing: 3px;">_________________________________________________________________________</p>
 </div>
 
 <br/>
 
-<div align="center">
-  <p width="700" style="font-family: 'Georgia', serif; color: #CCCCCC; letter-spacing: 0.5px; font-size: 15px; line-height: 1.8;">
-    Desenvolvedor focado na construção de <b>estruturas lógicas sólidas e de alto desempenho</b>.<br>
-    Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
-  </p>
-  <br/>
-  <p style="font-family: 'Georgia', serif; color: #888888; font-size: 13px; border-top: 1px solid #333; display: inline-block; padding-top: 15px; letter-spacing: 1px;">
-    <i>"A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."</i>
-  </p>
-</div>
+<table border="0" align="center" width="98%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+        <img src="https://i.pinimg.com/564x/45/61/35/45613523020772561676327022245763.jpg" width="150" style="border-radius: 5px; filter: grayscale(100%) contrast(1.1);">
+    </td>
+    
+    <td width="60%" align="center" valign="middle">
+      <p style="font-family: 'Georgia', serif; color: #CCCCCC; letter-spacing: 0.5px; font-size: 15px; line-height: 1.8; text-align: justify;">
+        Desenvolvedor focado na construção de <b>estruturas lógicas sólidas e de alto desempenho</b>. Minha fundação em linguagens de baixo nível permite uma compreensão profunda da arquitetura de software, facilitando a adaptação para qualquer stack moderna.
+      </p>
+      <br/>
+      <p style="font-family: 'Georgia', serif; color: #888888; font-size: 13px; border-top: 1px solid #333; display: inline-block; padding-top: 15px; letter-spacing: 1px;">
+        <i>"A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."</i>
+      </p>
+    </td>
+
+    <td width="20%" align="center" valign="middle">
+        <img src="https://i.pinimg.com/originals/c2/69/4c/c2694c60283611181662070570006717.gif" width="150" style="border-radius: 5px; filter: grayscale(100%) contrast(1.1);">
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -49,7 +60,7 @@
 <br/><br/>
 
 <div align="center">
-  <p style="color: #333;">_______________________________________________________________</p>
+  <p style="color: #333; letter-spacing: 3px;">_________________________________________________________________________</p>
   <br/>
   <a href="https://github.com/MarceloSchuermann">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarceloSchuermann&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ffffff&icon_color=999999&text_color=bbbbbb&bg_color=0d1117"/>
@@ -66,5 +77,5 @@
     <a href="mailto:marceloschuermann1@gmail.com" style="text-decoration: none; color: #CCCCCC; border-bottom: 1px solid #444; padding-bottom: 2px;">EMAIL</a>
   </p>
   <br/>
-  <p style="font-size: 10px; letter-spacing: 2px; text-transform: uppercase;">© 2024 Marcelo Schuermann • Code as Architecture</p>
+  <p style="font-size: 10px; letter-spacing: 3px; text-transform: uppercase;">© 2024 Marcelo Schuermann • MMXIV</p>
 </div>

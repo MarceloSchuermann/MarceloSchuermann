@@ -18,13 +18,13 @@
 
 <div align="center">
   <p style="font-family: 'Gill Sans', sans-serif; color: #bfbfbf; font-size: 15px; line-height: 1.8; max-width: 600px;">
-    Desenvolvedor júnior focado em trazer a melhor experiência possível para o usuário final.
+    Desenvolvedor focado em unir performance lógica com a melhor experiência possível para o usuário final.
   </p>
   
   <br/>
   
   <p style="font-family: 'Cinzel', serif; color: #666; font-size: 12px; letter-spacing: 2px;">
-    <i>"A simplicidade é o último grau da sofisticação."</i>
+    <i>"A SIMPLICIDADE É O ÚLTIMO GRAU DA SOFISTICAÇÃO."</i>
   </p>
 </div>
 
@@ -38,7 +38,8 @@
 
 <div align="center">
   <p style="font-family: 'Courier New', monospace; color: #888; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px;">
-    Minhas "Hard Skills" são c++ e .lua, mas eu aprendo de tudo se for preciso, aqui estão algumas linguagens que estou familiarizado:
+    Especialidade em <b>C++</b> e <b>Lua</b>, aliada à capacidade de adaptação para qualquer stack necessária.
+    <br>Arsenal técnico atual:
   </p>
   
   <a href="https://skillicons.dev">
@@ -59,8 +60,8 @@
     :: DINÂMICA DE GRUPO ::
   </p>
   
-  <p style="font-family: 'Gill Sans', sans-serif; color: #a0a0a0; font-size: 13px; letter-spacing: 1px;">
-    MENTALIDADE COLABORATIVA &nbsp;|&nbsp; COMUNICAÇÃO TÉCNICA CLARA &nbsp;|&nbsp; CODE REVIEW ATIVO
+  <p style="font-family: 'Gill Sans', sans-serif; color: #a0a0a0; font-size: 13px; letter-spacing: 1px; max-width: 600px;">
+    Muitos desenvolvedores têm dificuldades em trabalhar em equipe, mas não é o meu caso. Acredito que o código é uma forma de comunicação: deve ser claro para quem lê e robusto para quem usa. Valorizo a troca constante de feedback e vejo o sucesso do time como o verdadeiro objetivo.
   </p>
 </div>
 

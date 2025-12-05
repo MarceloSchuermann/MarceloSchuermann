@@ -38,17 +38,19 @@
 
 ---
 
+---
+
 <div align="center">
-  <a href="https://github.com/marceloschuermann">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarceloSchuermann&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=47FF5A&icon_color=47FF5A" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSchuermann&layout=compact&theme=radical&hide_border=true&title_color=47FF5A" height="150" />
+  <a href="https://github.com/TROQUE_PELO_SEU_USUARIO_EXATO">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TROQUE_PELO_SEU_USUARIO_EXATO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=47FF5A&icon_color=47FF5A"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TROQUE_PELO_SEU_USUARIO_EXATO&layout=compact&theme=radical&hide_border=true&title_color=47FF5A"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/marceloschuermann">
+  <a href="https://linkedin.com/in/MarceloSchuermann">
     <img src="https://img.shields.io/badge/LinkedIn-004400?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:marceloschuermann1@gmail.com">
